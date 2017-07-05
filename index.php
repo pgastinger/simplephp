@@ -1,5 +1,10 @@
-<?php
+<html>
+  <head>
+  </head>
+  <body>
 
-phpinfo();
+    <h1>OpenShift 3</h1>
 
-?>
+    PHP Test
+  </body>
+</html>
